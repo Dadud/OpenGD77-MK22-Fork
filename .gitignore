@@ -1,0 +1,30 @@
+# Build artifacts
+*.o
+*.obj
+*.axf
+*.elf
+*.map
+*.bin
+*.sgl
+*.srec
+
+# IDE
+.mcuxpresso/
+.cproject
+.project
+.settings/
+Mx*
+*.launch
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Backup
+*.bak
+*.orig
